@@ -23,3 +23,8 @@ It provides **real-time feedback**, counts reps, and helps maintain correct form
   - Squats  
 - ✅ Demo video included (`temp_video.mp4`)
 - ✅ Modular Python scripts for each exercise
+🌐 Live Preview
+
+👉 Try it here: AI Gym Assistant (Streamlit App)
+
+(Open in a new tab to interact with the AI trainer directly.)
