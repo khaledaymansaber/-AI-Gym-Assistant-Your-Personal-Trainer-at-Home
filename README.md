@@ -1,4 +1,4 @@
-# -AI-Gym-Assistant-Your-Personal-Trainer-at-Home
+
 # 🏋️‍♂️ AI Gym Assistant: Your Personal Trainer at Home
 
 
