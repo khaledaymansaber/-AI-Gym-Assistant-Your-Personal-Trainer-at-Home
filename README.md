@@ -25,6 +25,6 @@ It provides **real-time feedback**, counts reps, and helps maintain correct form
 - ✅ Modular Python scripts for each exercise
 🌐 Live Preview
 
-👉 Try it here: AI Gym Assistant (Streamlit App)
+👉 Try it here: https://ai-gym-assistant-your-personal-trainer-at-home.streamlit.app/?utm_source=chatgpt.com
 
 (Open in a new tab to interact with the AI trainer directly.)
