@@ -1,7 +1,7 @@
 # -AI-Gym-Assistant-Your-Personal-Trainer-at-Home
 # 🏋️‍♂️ AI Gym Assistant: Your Personal Trainer at Home
 
-<img src="preencoded.png" alt="AI Gym Assistant Demo" width="600">
+
 
 ## 📌 Overview
 AI Gym Assistant is an AI-powered workout companion that uses **YOLOv8 pose estimation** to guide and track your exercises at home.  
